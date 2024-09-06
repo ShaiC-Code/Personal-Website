@@ -1,0 +1,11 @@
+.profile-image {
+    border: 5px solid black;
+}
+
+.project-image {
+    border-left: 10px solid black; 
+    border-top: 10px solid black;
+    border-right: 1px solid black; 
+    border-bottom: 1px solid black;
+    object-fit: cover;
+}
